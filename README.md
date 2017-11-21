@@ -14,3 +14,11 @@ mklink /J "C:\Users" "D:\Users"
 
 If you want SymLink an entire User profile you'll need a Live CD
 <br>With the Live CD access the CMD and do the same thing as above
+
+# Travis CI, How to encypt your deployment
+
+```
+# This should be done in Linux
+travis encrypt "GITHUB PASSWORD" --add deploy.password branch_name
+```
+
