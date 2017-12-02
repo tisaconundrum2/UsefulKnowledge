@@ -22,3 +22,30 @@ If you want SymLink an entire User profile you'll need a Live CD
 travis encrypt "GITHUB PASSWORD" --add deploy.password branch_name
 ```
 
+# Bitcoin
+
+The several ways to protect your Bitcoin Keys
+
+## Hardware
+
+ - Trezor `$99`
+ - Ledger Nano S `$65`
+
+## Software
+
+ - Desktop wallets `cold storage` `risk of orphaning coins if system breaks`
+ - Mobile wallets `quick access` `risk of orphaning coins if system breaks`
+ - Online wallets `accessed from anywhere` `risk of orphaning coins if system breaks` `trust is with the site owner`
+
+### Some software websites
+
+ - Copay
+ - Electrum
+ - Exodus
+ - Jaxx
+ 
+## Paper
+
+ - simply a printed piece of paper that contains a cryptocurrency address `considered to be more confusing and complicated to set up`
+ 
+ 
