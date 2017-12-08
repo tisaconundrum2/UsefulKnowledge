@@ -48,4 +48,5 @@ The several ways to protect your Bitcoin Keys
 
  - simply a printed piece of paper that contains a cryptocurrency address `considered to be more confusing and complicated to set up`
  
- 
+# A Place to buy full Open Software
+codecanyon.net
