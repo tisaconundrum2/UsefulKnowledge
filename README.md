@@ -50,3 +50,8 @@ The several ways to protect your Bitcoin Keys
  
 # A Place to buy full Open Software
 codecanyon.net
+
+# How to force push from a checked out commit that may be several commits back
+
+git checkout origin/master
+git push -f origin/master HEAD:master
