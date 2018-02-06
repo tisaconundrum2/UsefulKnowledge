@@ -51,7 +51,10 @@ The several ways to protect your Bitcoin Keys
 # A Place to buy full Open Software
 codecanyon.net
 
-# How to force push from a checked out commit that may be several commits back
-
-git checkout origin/master
-git push -f origin/master HEAD:master
+# How to decompile your APK (Android App)
+1. Go to [https://ibotpeaches.github.io/Apktool/](https://ibotpeaches.github.io/Apktool/) and download the latest apktool.jar file
+2. You will need to install `jdk-9.0.4_windows-x64_bin.exe` this will help with step 4
+3. And install `jre-9.0.4_windows-x64_bin.exe` this will help with recompiling `apk`s
+4. Open CMD and type `java -version` if everything worked, you've successfully installed java
+<br>![](https://i.imgur.com/kSWBNZo.png)
+5. 
